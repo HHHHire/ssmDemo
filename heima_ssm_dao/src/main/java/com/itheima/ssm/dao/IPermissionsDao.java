@@ -3,7 +3,6 @@ package com.itheima.ssm.dao;
 import com.itheima.ssm.domain.Permission;
 import org.apache.ibatis.annotations.Insert;
 import org.apache.ibatis.annotations.Select;
-import org.springframework.stereotype.Service;
 
 import java.util.List;
 
